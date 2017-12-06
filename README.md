@@ -4,6 +4,7 @@ Simple test using puppet to provision Google Cloud infrastructure
 ## Links:
 Blog post about Puppet and GCP
 <https://cloudplatform.googleblog.com/2017/08/introducing-Puppet-support-for-Google-Cloud-Platform24.html>
+
 Creating Service Accounts:
 <https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-instances>
 
