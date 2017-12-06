@@ -1,4 +1,4 @@
-# Repo for me to demo Google/gcompute
+# Google Cloud & Puppet Demo
 Simple test using puppet to provision Google Cloud infrastructure
 
 ## Links:
